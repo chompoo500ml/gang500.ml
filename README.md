@@ -3,7 +3,8 @@
 [ ![Codeship Status for gang500ml/gang500.ml](https://app.codeship.com/projects/49313e20-1bc0-0136-7ebc-6e9d646fbd38/status?branch=master)](https://app.codeship.com/projects/284549)
 [![Join the chat at https://gitter.im/gang500-ml/Lobby](https://badges.gitter.im/gang500-ml/Lobby.svg)](https://gitter.im/gang500-ml/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Pam in da House!!
+Pam said: Pam in da House!!
+Chompoo said: really?!
 
 <div>Based on <a href="https://getmdl.io/templates/blog/index.html" target="_blank">Blog</a> template from <a href="https://getmdl.io/" target="_blank">Material Design Lite</a></div>
 
